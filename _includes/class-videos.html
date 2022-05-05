@@ -1,0 +1,35 @@
+
+{% assign HEAD_PREFIX = "h_" %}
+{% assign LIST_PREFIX = "l_" %}
+
+{% assign group_index = 0 %}
+
+<div class="card categories">
+{% for entry in include.course %}
+
+  <!-- top-category -->
+  <div id="{{ HEAD_PREFIX }}{{ group_index }}"
+    class="card-header d-flex justify-content-between">
+    <span>
+      <i class="far fa-folder fa-fw"></i>        
+      <a href="" class="ml-1 mr-2">{{ entry.title }}</a>
+    </span>
+    <!-- arrow -->      
+    <span href="#{{ LIST_PREFIX }}{{ group_index }}" data-toggle="collapse"
+      aria-expanded="true" aria-label="{{ HEAD_PREFIX }}{{ group_index }}-trigger"
+      class="category-trigger">
+      <i class="fas fa-fw fa-angle-down"></i>
+    </span>
+  </div> <!-- .card-header -->
+  <!-- Sub-categories -->
+  <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse {% if group_index == 0 %}show{% endif %}" aria-expanded="true">
+    <ul class="list-group">
+      <li class="list-group-item">
+        {% include youtubePlayer.html id=entry.id %}
+      </li>
+    </ul>
+  </div>
+  {% assign group_index = group_index | plus: 1 %}
+
+{% endfor %}  
+</div>

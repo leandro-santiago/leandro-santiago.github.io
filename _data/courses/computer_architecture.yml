@@ -1,0 +1,86 @@
+
+- 
+  title: "Aula 1: Motivação e Conceitos Básicos"
+  id: "WMi8cfJlCZY"
+- 
+  title: "Aula 2: Arquitetura e Organização de Computadores"
+  id: "viepPwlbKd0"
+- 
+  title: "Aula 3: Entendendo Desempenho"
+  id: "UbFdyRaaZ0c"
+- 
+  title: "Aula 4: Conjunto de Instruções: Características e Funções"
+  id: "LfGdcjG_xTI"
+- 
+  title: "Aula 5: Conjunto de Instruções: Modos de Endereçamento e Formatos"
+  id: "CUJg6d1DDy0"
+- 
+  title: "Execução de Programa"
+  id: "BFGLd8id0C4"
+- 
+  title: "Aula 6: Programação com MIPS"
+  id: "C88LBW2dZ0I"
+- 
+  title: "Programação com MIPS no MARS"
+  id: "_e8di4uJTe4"
+- 
+  title: "Aula 7: Implementação do MIPS - Monociclo (Caminho de Dados)"
+  id: "4b9fsI_3FG8"
+- 
+  title: "Aula 7: Implementação do MIPS - Monociclo (Controle)"
+  id: "StoWG9_-Ycg"
+- 
+  title: "Aula 8: Implementação do MIPS - Multiciclo"
+  id: "2GLstSQXTYw"
+- 
+  title: "Aula 9: Hierarquia de Memória"
+  id: "WcHX6Ukm15E"
+- 
+  title: "Aula 10: Memória Cache"
+  id: "pNUUHlWj27Y"
+- 
+  title: "Aula 11: Memória Cache - Mapeamento"
+  id: "RQfWogZIf90"
+- 
+  title: "Aula 12: Otimização de Cache"
+  id: "QmsLiYVQoXE"
+- 
+  title: "Aula 13: Memória Virtual"
+  id: "7hy_CTkc6y0"
+- 
+  title: "Aula 14: Pipelining - Visão Geral"
+  id: "FvI5Kk8jmZQ"
+- 
+  title: "Aula 15: Pipelining - Caminho de Dados"
+  id: "P8PxQyYDFj0"
+- 
+  title: "Aula 16: Pipelining - Controle"
+  id: "t2NSgfcEfEg"
+- 
+  title: "Aula 17: Pipelining - Hazard de Dados e Stalls"
+  id: "HF0djxy8O6I"
+- 
+  title: "Aula 18: Pipelining - Hazard de Dados e Forwarding"
+  id: "S3-10KFrKSQ"
+- 
+  title: "Aula 19: Pipelining - Hazard de Controle"
+  id: "3tBMzEgKCZE"
+- 
+  title: "Aula 20: Pipelining - Exceções"
+  id: "OyPvj_TfuFE"
+- 
+  title: "Aula 21: Paralelismo de Instruções"
+  id: "NV4P_P_ZNLA"
+- 
+  title: "Aula 22: Processadores Paralelos"
+  id: "WrKXUXEcjmo"
+- 
+  title: "Aula 23: Computadores Vetoriais"
+  id: "vFfgE0wzIFM"
+- 
+  title: "Aula 24: Graphics Processing Unit"
+  id: "S2pOS1TvEp0"
+- 
+  title: "Aula 25: Paralelismo em Nível de Threads"
+  id: "JLaEjU7d4as"
+
