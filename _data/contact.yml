@@ -6,10 +6,10 @@
 #-
   #type: twitter
   #icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+#-
+#  type: email
+#  icon: 'fas fa-envelope'
+#  noblank: true            # open link in current tab
 -
   type: rss
   icon: 'fas fa-rss'
@@ -24,6 +24,10 @@
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/leandro-santiago-5b31a332/'                  # Fill with your Linkedin homepage
+-
+  type: youtube
+  icon: 'fab fa-youtube'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.youtube.com/c/LeandroSantiago'  
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
