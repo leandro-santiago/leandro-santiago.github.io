@@ -1,4 +1,5 @@
 ---
+name: Tags
 layout: tags
 title: Tags
 icon: fas fa-tag
